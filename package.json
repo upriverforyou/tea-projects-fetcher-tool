@@ -1,0 +1,39 @@
+{
+  "name": "tea-projects-fetcher-tool",
+  "version": "1.0.0",
+  "description": "Fetch and retrieve project data with a powerful fetcher tool, simplifying project management tasks.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/upriverforyou/tea-projects-fetcher-tool"
+  },
+  "author": "upriverforyou",
+  "license": "MIT",
+  "dependencies": {
+    "tea-projects-tracker-tool": "1.0.0",
+    "tea-projects-fetcher-tool": "1.0.0",
+    "web3": "1.0.0",
+    "bcrypt": "1.0.0",
+    "babel-core": "1.0.0",
+    "ganache-cli": "1.0.0",
+    "dotenv": "1.0.0",
+    "mongoose": "1.0.0",
+    "react": "1.0.0",
+    "async": "1.0.0",
+    "moment": "1.0.0",
+    "web3-utils": "1.0.0",
+    "axios": "1.0.0",
+    "passport": "1.0.0",
+    "ethereumjs-util": "1.0.0",
+    "firebase": "1.0.0",
+    "eth-crypto": "1.0.0",
+    "cheerio": "1.0.0",
+    "pg": "1.0.0",
+    "jest": "1.0.0",
+    "underscore": "1.0.0",
+    "node-sass": "1.0.0"
+  }
+}
